@@ -1,1 +1,4 @@
 # README
+Currently a Cyber GRC Consultant, who has always had an interest in the technical side of things. This profile as a whole is used as a record of my learnings. Currently focusing on cloud, specifically Azure, from an infrastructure perspective, to better understand how to securely architect and deploy cloud resources. My long-goals are to learn more about GRC Engineering, Policy-as-Code, and how such concepts may be useful to automate existing GRC practices in cloud-based environments, and additionally this may integrate with practices such as Cyber Risk Quantification (CRQ) to put tangible numbers on current risk posture instead of relying on judgement and feel.
+
+**NOTE:** Not all of the projects within the repositories here will be perfect and polished, as I want them to demonstrate a track record of improvement and learning. 
